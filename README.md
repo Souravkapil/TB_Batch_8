@@ -2,6 +2,5 @@
 This is a repository for TB batch 8.
 <br>
 <br>
-### Author - Sourav Kapil
-<br>
+### Author - Sourav Kapil<br>
 ### Designation - Sr. Data Scientist
